@@ -7,13 +7,13 @@ I'm Software Engineer & Gopher.
 
 ### 🔍 Interest
 
-* Go
+* Go / Python / Rust
 * Container & Kubernetes
-* Search Engine
+* Search Engine / Data-Intensive Applications
 * NLP
 
 ### ✈️ Get in touch
 
 * Twitter: https://twitter.com/po3rin
 * Blog: https://po3rin.com
-* Speakerdeck: https://speakerdeck.com/po3rin
+* Speaker Deck: https://speakerdeck.com/po3rin
