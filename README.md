@@ -1,8 +1,8 @@
-Hello 👋  I'm po3rin.
-I'm Software Engineer & Gopher
+## 👋 Hey, I'm po3rin.
+I'm Software Engineer & Gopher.
 
-### ❤️ Love
-Go, Container, Search Engine, NLP, Algorithm, Image Processing.
+### 🔍 Interest
+Go, Container, Search Engine, NLP, Algorithm, Image Processing, Kubernetes.
 
 ### ✈️ Get in touch 
 
