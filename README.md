@@ -9,7 +9,7 @@ I'm Software Engineer & Gopher.
 
 * Go / Python / Rust
 * Container & Kubernetes
-* Search Engine / Data-Intensive Applications
+* Search Engine
 * NLP
 
 ### ✈️ Get in touch
