@@ -16,6 +16,6 @@ I'm Software Engineer & Gopher.
 ### ✈️ Get in touch
 
 * Twitter: https://twitter.com/po3rin
-* Blog: https://blog-web-orcin.vercel.app/
+* Blog: https://blog-web-mw03061uf-po3rin.vercel.app/
 * Speaker Deck: https://speakerdeck.com/po3rin
 * SAUNA IKITAI: https://sauna-ikitai.com/saunners/46531
